@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  max-width: 900px;
+  margin: auto;
+}
+
+nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0;
+}
+
+nav ul li {
+  list-style: none;
+}
